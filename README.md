@@ -9,7 +9,6 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 - **LuaU**: Game development on Roblox and creating advanced features to optimize player experience.
 
 ## 🔥 What I'm working on:
-- Building a **Game Boy emulator** in Python.
 - Working on **Roblox projects**, focusing on procedural map generation and optimization.
 
 &nbsp;
