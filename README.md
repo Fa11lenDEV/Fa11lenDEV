@@ -50,6 +50,4 @@ configuration management.
 
 ---
 
-<div align="center">
-  <sub>Brazil · 9+ years of code · Open source by heart</sub>
-</div>
+
