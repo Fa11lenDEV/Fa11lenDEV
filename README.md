@@ -15,7 +15,8 @@
 ## About
 
 I'm a Brazilian software engineer with 9 years of programming experience.
-I work primarily with **C, Linux systems programming, and open-source tooling**.
+I work across systems programming, backend services, and full-stack projects
+— spanning C, Go, Rust, TypeScript, and beyond.
 
 I care about clean, minimal code that does one thing well — the Unix philosophy
 in practice.  My work ranges from low-level graphics rendering to system
@@ -26,11 +27,11 @@ configuration management.
 | Project | Description | Language |
 |---------|-------------|----------|
 | [3dFetch](https://github.com/Fa11lenDEV/3dfetch) | Distro logo rendered as a spinning 3D point cloud in the terminal | C11 |
-| More coming soon | &nbsp; | &nbsp; |
+| [Waddlx](https://github.com/Fa11lenDEV/Waddlx) | Roblox experience with Luau backend | Luau |
 
 ## Technologies
 
-**Languages** — C, C++, Shell, Python, TOML, YAML
+**Languages** — C, C++, C#, Go, Rust, TypeScript, JavaScript, Luau, Shell, Python
 
 **Systems** — Linux (Arch, NixOS), POSIX environment, systemd
 
