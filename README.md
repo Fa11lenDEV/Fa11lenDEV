@@ -27,7 +27,7 @@ configuration management.
 | Project | Description | Language |
 |---------|-------------|----------|
 | [3dFetch](https://github.com/Fa11lenDEV/3dfetch) | Distro logo rendered as a spinning 3D point cloud in the terminal | C11 |
-| [Waddlx](https://github.com/Fa11lenDEV/Waddlx) | Roblox experience with Luau backend | Luau |
+| [Waddlx](https://github.com/Fa11lenDEV/Waddlx) | Roblox Framework | Luau |
 
 ## Technologies
 
